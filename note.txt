@@ -1,0 +1,46 @@
+tinyone psd:
+html,css,boostrap,js
+
+font-family:----
+pTsans regular-400
+font-family: 'PT Sans', sans-serif;
+pTsans bold-700
+fontawsam-
+
+color:-----
+black: #010101
+asah:  #898989
+yeollow: #fcdb00
+
+padding:---------
+header:
+     xxl/xl/lg           md            sm/col
+t-b     20px            20px            10px
+slider:
+      b-100px           100px            60px
+
+feature:
+p-t   100px              80px            50px 
+p-b   120px              100px           70px   
+
+f_item:
+margin-t 70px             50px            30px 
+
+font-size:-----
+header:
+     xxl/xl/lg            md             sm/col
+menu   22px               22px            20px
+
+slider:         
+h1   32px                 32px            25px
+h2   20px                 20px            19px
+p    16px                 16px            16px
+icon 42px                 42px            35px
+
+feature:
+c_h1 32px                  32px             25px
+c_p  20px                  20px             17px
+
+h2   22px                  22px             20px
+p    16px                  16px             16px
+icon 50px                  50px             35px
